@@ -1,0 +1,29 @@
+For 2 rounds:
+strategy LRCD has a probability of cooperating with strategy LRCD of 0.5
+strategy LRCD has a probability of cooperating with strategy LRDD of 0.02
+strategy LRDD has a probability of cooperating with strategy LRCD of 0.0
+strategy LRDD has a probability of cooperating with strategy LRDD of 0.0
+strategy LRCD has an average payoff against strategy LRCD of 0.5
+strategy LRCD has an average payoff against strategy LRDD of -0.01
+strategy LRDD has an average payoff against strategy LRCD of 0.03
+strategy LRDD has an average payoff against strategy LRDD of 0.0
+-----------------------------
+For 5 rounds:
+strategy LRCD has a probability of cooperating with strategy LRCD of 0.5
+strategy LRCD has a probability of cooperating with strategy LRDD of 0.00016
+strategy LRDD has a probability of cooperating with strategy LRCD of 0.0
+strategy LRDD has a probability of cooperating with strategy LRDD of 0.0
+strategy LRCD has an average payoff against strategy LRCD of 0.5
+strategy LRCD has an average payoff against strategy LRDD of -8e-05
+strategy LRDD has an average payoff against strategy LRCD of 0.00024000000000000003
+strategy LRDD has an average payoff against strategy LRDD of 0.0
+-----------------------------
+For 10 rounds:
+strategy LRCD has a probability of cooperating with strategy LRCD of 0.49999999999999994
+strategy LRCD has a probability of cooperating with strategy LRDD of 5.12e-08
+strategy LRDD has a probability of cooperating with strategy LRCD of 0.0
+strategy LRDD has a probability of cooperating with strategy LRDD of 0.0
+strategy LRCD has an average payoff against strategy LRCD of 0.4999999999999999
+strategy LRCD has an average payoff against strategy LRDD of -2.56e-08
+strategy LRDD has an average payoff against strategy LRCD of 7.68e-08
+strategy LRDD has an average payoff against strategy LRDD of 0.0
